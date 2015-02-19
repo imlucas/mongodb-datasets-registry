@@ -23,3 +23,6 @@
 - [The global database of events](http://gigaom.com/2014/05/29/more-than-250-million-global-events-are-now-in-the-cloud-for-anyone-to-analyze/)
 - Pubchem + mongo: [slides](http://www.slideshare.net/datablend/mongodb-analytics) [source](https://github.com/datablend/mongo-compound-comparison-revisited) [raw data?]()
 - npm registry adapter for mongo?
+- Listen on IRC for wikipedia changes -> store change in mongo [github](https://github.com/imlucas/wikipedia-edit-stream)
+- mongoscope-louie [github](https://github.com/imlucas/mongoscope-louie)
+- Enron email dataset [bsondump](http://mongodb-enron-email.s3-website-us-east-1.amazonaws.com/)
