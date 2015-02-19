@@ -26,3 +26,15 @@
 - Listen on IRC for wikipedia changes -> store change in mongo [github](https://github.com/imlucas/wikipedia-edit-stream)
 - mongoscope-louie [github](https://github.com/imlucas/mongoscope-louie)
 - Enron email dataset [bsondump](http://mongodb-enron-email.s3-website-us-east-1.amazonaws.com/)
+- Open FDA https://open.fda.gov/
+- [openpaymentsdata](https://openpaymentsdata.cms.gov/): All research-related payments where identifying data about the recipients, such as name, address, and specialty, are included.
+- [dataset python module](https://dataset.readthedocs.org/en/latest/): databases for lazy people
+- everything from [gigadb](http://gigadb.org): contains 157 discoverable, trackable, and citable datasets that have been assigned DOIs and are available for public download and use (mostly genomics)
+- [Every single page of the new yorks times ever printed](https://gist.github.com/imlucas/44d5be86fb5d4357eb01)
+- [CMU: StatLib---Datasets Archive](http://lib.stat.cmu.edu/datasets/) hundreds (thousands?) of datasets, small and large
+- [PEW Research Center](http://www.pewinternet.org/datasets/) raw survey result data
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/): LOTS.  active since 1987.
+- [AWS datasets](https://aws.amazon.com/datasets): almost all are far too large for practical use (>100GB)
+- [Bureau of Transportation Statistics](http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236), as used in "[Aggregation Options on Big Data Sets Part 1: Basic Analysis using a Flights Data Set](http://blog.mongodb.org/post/58919137318/aggregation-options-on-big-data-sets-part-1-basic)"
+- [ProPublica Data Store: Download, Purchase ProPublica's Data - ProPublica](http://www.propublica.org/article/introducing-the-propublica-data-store)
+- [OECD: Country by country data](http://data.oecd.org/)
